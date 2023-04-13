@@ -1,0 +1,7 @@
+const SCENERY = {
+	BEACH: "SCENERY_BEACH",
+	URBAN: "SCENERY_URBAN",
+	MOUNTAINS: "SCENERY_MOUNTAINS",
+};
+
+module.exports = SCENERY;
